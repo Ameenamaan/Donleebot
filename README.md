@@ -15,12 +15,12 @@
 <a href="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/main/LICENSE"><img alt="github" src="https://img.shields.io/badge/License-AGPL-blue"/></a>
 </p>
 
-👋Hey <a href="https://telegram.dog/Mrk_YT">Muhammed</a>, Iam <a href="https://telegram.me/Donlee_Robot">DonLee RoBoT</a>
+👋Hey <a href="https://telegram.dog/Ameen_Ameen_12">ᵐʳ𝐔𝐧𝐤𝐧𝐨𝐰𝐧</a>, Iam <a href="https://telegram.me/Botbotbotytbot">Auto Filter Bot</a>
 Make me an admin for your group and channel then connect me....🎉
-🙂To build a DonLee robot V2 like me, click on the <a href="https://telegram.dog/Donlee_Robot">/subscribe</a> command
+🙂To build a Auto Filter Bot V2 like me, click on the <a href="https://telegram.dog/Botbotbotytbot">/subscribe</a> command
 Subscribe to the update channel to learn about my updates and activity...
-Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a> Command for more information
-🧒 Maintained By <a href="https://t.me/Mrk_yt">This Person</a>     
+Click on the Help Button or <a href="https://telegram.dog/Botbotbotytbot">/help</a> Command for more information
+🧒 Maintained By <a href="https://t.me/Ameen_Ameen_12">This Person</a>     
    
 ----
 
@@ -28,7 +28,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 ↪️ 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 𝐒𝐓𝐀𝐓𝐔𝐒 ↩️
 </p>
 
-[![DONLEEROBOTV2](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=DonLee-Robot-V2)](https://github.com/PR0FESS0R-99/DonLee-Robot-V2)
+[![DONLEEROBOTV2](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=DonLee-Robot-V2)](https://github.com/Ameenamaan/Donleebot)
 
 
 ----
